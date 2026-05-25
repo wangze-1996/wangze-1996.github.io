@@ -18,9 +18,13 @@ My current research focuses on AI-driven methods for hydrological sensing, predi
 **Research Interests**
 
 AI for hydrology and water resources
+
 Vision-based hydrological monitoring and water level estimation
+
 Flood forecasting, uncertainty analysis, and reservoir operation
+
 Large language models, RAG, and domain-specific AI agents for water resources engineering
+
 Interdisciplinary AI methods for sensing, prediction, and decision support in water systems
 
 
