@@ -10,6 +10,7 @@ redirect_from:
 
 
 About
+
 I am a researcher in hydrology and water resources, with research interests in artificial intelligence for hydrological monitoring, flood forecasting, reservoir operation, and decision support for water resources engineering.
 
 My current research focuses on AI-driven methods for hydrological sensing, prediction, and decision-making, including vision foundation models, large language models, retrieval-augmented generation, and domain-specific AI agents for water resources applications.
